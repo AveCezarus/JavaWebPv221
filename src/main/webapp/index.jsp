@@ -3,7 +3,7 @@
 
 <html>
 <head>
-  <title>Product Table</title>
+  <title>Java221</title>
   <style>
     table {
       width: 50%;
