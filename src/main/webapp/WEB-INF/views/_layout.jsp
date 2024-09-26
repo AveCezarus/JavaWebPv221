@@ -17,6 +17,7 @@
     <nav>
         <div class="nav-wrapper light-blue">
             <a href="#" class="site-logo left">
+                <img src="<%=contextPath%>/img/Java_Logo.png" alt="Logo" />
                 PV-221
             </a>
             <ul id="nav-mobile" class="left">
@@ -31,7 +32,10 @@
                 </li>
             </ul>
             <a class="nav-addon right" href="<%=contextPath%>/signup"><i class="material-icons">person_add</i></a>
+
+
         </div>
+
     </nav>
 </header>
 

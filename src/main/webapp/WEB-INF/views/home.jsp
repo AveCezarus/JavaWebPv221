@@ -6,5 +6,9 @@
 </head>
 <body>
 <a href="servlets">servlets</a>
+<h2><%= request.getAttribute("hash")%></h2>
+<p>Контроль: <%= request.getAttribute("controlStatus") %></p>
+
+
 </body>
 </html>
